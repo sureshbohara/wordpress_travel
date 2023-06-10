@@ -1,0 +1,2 @@
+[29-Oct-2022 01:25:56 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/daviuqwz/realsherpaadventures.com/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[29-Oct-2022 01:26:12 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/daviuqwz/realsherpaadventures.com/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10

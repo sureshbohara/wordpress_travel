@@ -1,0 +1,4 @@
+[24-Oct-2022 11:57:04 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /home/daviuqwz/realsherpaadventures.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Oct-2022 21:35:19 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /home/daviuqwz/realsherpaadventures.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Oct-2022 13:08:35 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /home/daviuqwz/realsherpaadventures.com/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2022 01:26:00 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /home/daviuqwz/realsherpaadventures.com/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17

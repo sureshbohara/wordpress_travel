@@ -1,0 +1,4 @@
+[29-Oct-2022 01:26:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/daviuqwz/realsherpaadventures.com/wp-content/themes/twentytwenty/inc/template-tags.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/daviuqwz/realsherpaadventures.com/wp-content/themes/twentytwenty/inc/template-tags.php on line 178

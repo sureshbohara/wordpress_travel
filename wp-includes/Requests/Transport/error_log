@@ -1,0 +1,1 @@
+[29-Oct-2022 01:26:03 America/New_York] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/daviuqwz/realsherpaadventures.com/wp-includes/Requests/Transport/cURL.php on line 15
